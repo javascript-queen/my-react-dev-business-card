@@ -8,6 +8,7 @@ This project is important for every React dev who wants to understand:
 
 - Styling with classes
 
+- Routers
 
 Here's my small react app with a business card. I used router, too, btw. Just to make things a bit more interesting and complicated. 
 
