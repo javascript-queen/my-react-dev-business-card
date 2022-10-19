@@ -1,0 +1,47 @@
+/* Info */
+
+.profile {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+  height: 150px;
+}
+
+.info--center {
+  text-align: center;
+}
+
+.headings {
+  color: aliceblue;
+}
+
+button {
+  border: none;
+  padding: 12px 24px;
+  border-radius: 50px;
+  color: brown;
+  font-weight: 600;
+  margin: 3px;
+  cursor: alias;
+}
+/* About & Interests */
+
+.grey-text {
+  color:rgb(213, 184, 184);
+}
+
+/* Footer */
+
+.link--solo {
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.icons {
+  color: aliceblue;
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: 1.5rem;
+}
