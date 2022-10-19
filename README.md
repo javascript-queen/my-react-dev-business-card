@@ -1,5 +1,7 @@
 # my-react-dev-business-card
 
+⚠️ Source files are in the master branch
+
 This project is important for every React dev who wants to understand:
 
 - custom components
